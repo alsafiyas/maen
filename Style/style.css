@@ -1,0 +1,24 @@
+* {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: cyan;
+  border: 1px solid red;
+  height: 100vh;
+}
+
+.div1 {
+  border: 3px solid white;
+  height: 100%;
+}
+
+.div1 video {
+  border: 3px solid cyan;
+  width: 100%;
+  height: 100%;
+}
+/*# sourceMappingURL=style.css.map */
